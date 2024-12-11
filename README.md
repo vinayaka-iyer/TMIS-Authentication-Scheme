@@ -157,6 +157,6 @@ The following endpoints are exposed via FastAPI:
 
 #### **10. Reference**
 
-- **Vishesh P. Gaikwad, Jitendra V. Tembhurne, Chandrashekhar Meshram, Cheng-Chi Lee**. *Provably Secure Lightweight Client Authentication Scheme with Anonymity for TMIS using Chaotic Hash Function*. Journal of Supercomputing, 2021【17†source】.
+- **Vishesh P. Gaikwad, Jitendra V. Tembhurne, Chandrashekhar Meshram, Cheng-Chi Lee**. *Provably Secure Lightweight Client Authentication Scheme with Anonymity for TMIS using Chaotic Hash Function*. Journal of Supercomputing, 2021.
 
 This project demonstrates a practical implementation of the principles outlined in the referenced paper, utilizing chaotic hash functions in an authentication system for security and efficiency.
