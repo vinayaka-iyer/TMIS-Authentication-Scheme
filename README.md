@@ -151,7 +151,7 @@ The following endpoints are exposed via FastAPI:
 #### **9. Security Considerations**
 
 - **Chaotic Hashing**: The chaotic hash function provides enhanced unpredictability, reducing the risk of successful brute-force attacks and improving resistance to common attack vectors like replay attacks.
-- **Lightweight Authentication**: The system is designed to be lightweight, making it suitable for applications with resource-constrained environments, such as IoT or TMIS【17†source】.
+- **Lightweight Authentication**: The system is designed to be lightweight, making it suitable for applications with resource-constrained environments, such as IoT or TMIS.
 
 ---
 
